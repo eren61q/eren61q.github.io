@@ -1,0 +1,15 @@
+{
+  "MEL001": {
+    "name": "Ali Yılmaz",
+    "blood": "A+",
+    "allergy": "Fıstık",
+    "phone": "+905551111111"
+  },
+
+  "MEL002": {
+    "name": "Ayşe Demir",
+    "blood": "0-",
+    "allergy": "Penisilin",
+    "phone": "+905552222222"
+  }
+}
